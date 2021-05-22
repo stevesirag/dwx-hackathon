@@ -1,6 +1,6 @@
 # dwx-hackathon
 
-This repository is for collaborating on a proof of concept project called DevWorx, in the Terra Hackathon event of May 5-7, 2021.
+This repository is for collaborating on a proof of concept project called DevWorx.
 
 Whitepaper is undisclosed at this point.
 
